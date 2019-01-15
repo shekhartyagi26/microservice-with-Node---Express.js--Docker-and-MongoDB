@@ -1,0 +1,11 @@
+app:
+  port: 8080
+repository:
+  ForeRunnerDB:
+    database: Microservice
+  Mongoose:
+    host: 127.0.0.1
+    user: 
+    password: 
+    database: Microservice
+    port: 27017
